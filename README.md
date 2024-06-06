@@ -66,8 +66,6 @@ O projeto oferece os seguintes endpoints para interagir com o serviço de encurt
 
 Para visualizar e interagir com os endpoints da API, você pode acessar a documentação Swagger disponível em `http://localhost:8080/swagger-ui.html`.
 
-## Contribuição
 
-Se desejar contribuir para o projeto, fique à vontade para fazer um fork e enviar uma solicitação de pull. Todas as contribuições são bem-vindas!
 
 ---
